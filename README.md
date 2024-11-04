@@ -25,7 +25,7 @@ ollama serve
 2. Clone the repository and start the development server.
 
 ```bash
-git clone https://github.com/HelgeSverre/ollama-gui.git
+git clone https://github.com/doulatdutta/ollama-gui
 cd ollama-gui
 yarn install
 yarn dev
